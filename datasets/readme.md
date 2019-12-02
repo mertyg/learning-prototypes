@@ -1,0 +1,2 @@
+You can get the rest of the datasets from http://www.multipleinstancelearning.com/datasets/, and put in this folder.
+Also please do not forget to get the CV indices, which you can also find in the above URL.
